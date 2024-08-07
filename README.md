@@ -8,7 +8,7 @@ Requesting Data:
 ### Example Quote Request
 ```json
 {
-  'Get Quote'
+  "request": "Get Quote"
 }
 
 ```
